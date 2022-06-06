@@ -26,6 +26,22 @@ TRAaaS is an immune system that combines the entire distributed architecture and
 * Large-scale chaos engineering drives stable technology evolution and promotes technology risk culture;
 * AIOps improves operation and maintenance efficiency under controllable risks;
 
+## Projects
+* [CeresDB](https://github.com/TRaaSStack/CeresDB)  It is a time series database product based on the OceanBase distributed storage engine base. It is used to manage and store time series data, providing high-performance reading and writing, low-cost storage, and rich multi-dimensional query and analysis capabilities.
+* [Pyraformer](https://github.com/TRaaSStack/Pyraformer) Low-complexity Pyramidal Attention for Long-range Time Series Modeling and Forecasting This is the Pytorch implementation of Pyraformer (Pyramidal Attention based Transformer) in the ICLR paper
+
+## Community
+* Wechat
+* Dingtalk
+* Weibo
+* Twitter
+
+## Known Users
+![image](https://user-images.githubusercontent.com/1535119/172122474-438a8e4a-1f53-452f-98ab-5d99c66aa4f1.png)
+![image](https://user-images.githubusercontent.com/1535119/172122489-6b1e7a82-2c05-4a7c-8051-dc506f8e52fa.png)
+![image](https://user-images.githubusercontent.com/1535119/172122531-fbe8ec75-f30a-42af-a6a3-3f0b130bdd4e.png)
+
+
 <!--
 
 **Here are some ideas to get you started:**
