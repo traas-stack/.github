@@ -2,7 +2,6 @@
 
 TRaaS（Technological Risk-defense as a Service）是绿色，稳定，智能的技术风险防控解决方案。TRaaS关注整个研发运维过程可能产生的稳定性风险，从流程制度、文化宣导、技术方案、平台体系多个方面提供稳定性风险防控方案，实现风险的主动发现和自我恢复能力，助力业务高质量增长。
 
-
 TRaaS 是整个分布式架构和技术风险能力组合在一起的免疫系统，将高可用和资金安全能力结合AIOps，使系统实现故障自愈。此外，TRaaS还具备以下六大特性：
 
 * 统一变更管控，智能变更风险防御；
@@ -29,6 +28,8 @@ TRAaaS is an immune system that combines the entire distributed architecture and
 ## Projects
 * [CeresDB](https://github.com/TRaaSStack/CeresDB)  It is a time series database product based on the OceanBase distributed storage engine base. It is used to manage and store time series data, providing high-performance reading and writing, low-cost storage, and rich multi-dimensional query and analysis capabilities.
 * [Pyraformer](https://github.com/TRaaSStack/Pyraformer) Low-complexity Pyramidal Attention for Long-range Time Series Modeling and Forecasting This is the Pytorch implementation of Pyraformer (Pyramidal Attention based Transformer) in the ICLR paper
+
+## News
 
 ## Community
 * Wechat
