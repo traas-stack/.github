@@ -32,8 +32,19 @@ TRAaaS is an immune system that combines the entire distributed architecture and
 ## News
 
 * [Chaos Engineering At Ant Group](https://medium.com/@monkeysuzie/chaos-engineering-at-ant-group-30c15cb6ab69)
+* [蚂蚁集团TRaaS技术风险防控平台入选中国信通院《信息系统稳定性保障能力建设指南(1.0)》最佳实践案例](https://mp.weixin.qq.com/s/rA4j8NTANNcCcWgwItW_ew)
+* [重磅发布|中国信通院联合蚂蚁集团、阿里云推出支付宝小程序压测专项](https://mp.weixin.qq.com/s/Ar5_-T0SZEpgLo3_a5wvxA)
 
+## Blogs
 
+* [十年磨一剑-蚂蚁集团可观测性平台 AntMonitor 揭秘](https://mp.weixin.qq.com/s/k59Bi_EfJSq3v4uawAwDUw)
+* [ICLR 2022 Oral | 蚂蚁集团用于长程时序建模的开源算法Pyraformer简介](https://mp.weixin.qq.com/s/kNvQOSEIv0itiqeN-EDKxw)
+* [蚂蚁分布式系统稳定性实践](https://mp.weixin.qq.com/s/OBd3ImPmy11Wz-WxxZl-JA)
+* [蚂蚁第三代混沌工程助力风险防控提升](https://mp.weixin.qq.com/s/5MMUDktUCqUyP0roprol0A)
+
+## Papers
+
+* [Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting](https://openreview.net/pdf?id=0EXmFzUn5I)
 
 ## Community
 * Wechat
