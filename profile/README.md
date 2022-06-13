@@ -63,6 +63,9 @@ TRAaaS is an immune system that combines the entire distributed architecture and
 * Weibo
 * Twitter
 
+## Contributing
+Please take a look at the [contribution guidelines](https://github.com/TRaaSStack/.github/blob/main/profile/CONTRIBUTING.md) first. Contributions are always welcome!
+
 ## Known Users
 ![image](https://user-images.githubusercontent.com/1535119/172122474-438a8e4a-1f53-452f-98ab-5d99c66aa4f1.png)
 ![image](https://user-images.githubusercontent.com/1535119/172122489-6b1e7a82-2c05-4a7c-8051-dc506f8e52fa.png)
