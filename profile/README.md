@@ -39,8 +39,8 @@ TRAaaS is an immune system that combines the entire distributed architecture and
 
 ## Papers
 
-* [Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting](https://openreview.net/pdf?id=0EXmFzUn5I)
-* [A Meta Reinforcement Learning Approach for Predictive Autoscaling in the Cloud](https://arxiv.org/abs/2205.15795)
+* ICLR 2022 [Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting](https://openreview.net/pdf?id=0EXmFzUn5I)
+* KDD 2022 [A Meta Reinforcement Learning Approach for Predictive Autoscaling in the Cloud](https://arxiv.org/abs/2205.15795)
 
 ## Newsletters
 
