@@ -41,6 +41,7 @@ TRAaaS is an immune system that combines the entire distributed architecture and
 
 * ICLR 2022 [Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting](https://openreview.net/pdf?id=0EXmFzUn5I)
 * KDD 2022 [A Meta Reinforcement Learning Approach for Predictive Autoscaling in the Cloud](https://arxiv.org/abs/2205.15795)
+* IJCAI 2022 Memory Augmented State Space Model for Time Series Forecasting
 
 ## Newsletters
 
@@ -70,6 +71,11 @@ Please take a look at the [contribution guidelines](https://github.com/TRaaSStac
 ![image](https://user-images.githubusercontent.com/1535119/172122474-438a8e4a-1f53-452f-98ab-5d99c66aa4f1.png)
 ![image](https://user-images.githubusercontent.com/1535119/172122489-6b1e7a82-2c05-4a7c-8051-dc506f8e52fa.png)
 ![image](https://user-images.githubusercontent.com/1535119/172122531-fbe8ec75-f30a-42af-a6a3-3f0b130bdd4e.png)
+![image](https://user-images.githubusercontent.com/1535119/173607325-8affb995-7a45-4c7a-9574-6b60bb006a4e.png)
+![image](https://user-images.githubusercontent.com/1535119/173607361-79f2c3fe-db60-4a16-93d6-6cc8d162023c.png)
+![image](https://user-images.githubusercontent.com/1535119/173607440-99df4726-eaa0-4024-9e28-3dae3d76750e.png)
+![image](https://user-images.githubusercontent.com/1535119/173607753-9ad8ade1-d6a5-493f-8c00-628058e2d06c.png)
+
 
 
 <!--
