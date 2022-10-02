@@ -42,12 +42,14 @@ TRAaaS is an immune system that combines the entire distributed architecture and
 * ICLR 2022 [Pyraformer: Low-Complexity Pyramidal Attention for Long-Range Time Series Modeling and Forecasting](https://openreview.net/pdf?id=0EXmFzUn5I)
 * KDD 2022 [A Meta Reinforcement Learning Approach for Predictive Autoscaling in the Cloud](https://arxiv.org/abs/2205.15795)
 * IJCAI 2022 Memory Augmented State Space Model for Time Series Forecasting
+* ACM SoCC 2022《DeepScaling: Microservices AutoScaling for Stable CPU Utilization in Large Scale Cloud Systems》
 
 ## Newsletters
 
 * [Chaos Engineering At Ant Group](https://medium.com/@monkeysuzie/chaos-engineering-at-ant-group-30c15cb6ab69)
 * [蚂蚁集团TRaaS技术风险防控平台入选中国信通院《信息系统稳定性保障能力建设指南(1.0)》最佳实践案例](https://mp.weixin.qq.com/s/rA4j8NTANNcCcWgwItW_ew)
 * [重磅发布|中国信通院联合蚂蚁集团、阿里云推出支付宝小程序压测专项](https://mp.weixin.qq.com/s/Ar5_-T0SZEpgLo3_a5wvxA)
+* [产学研联合助力双碳，业内首支“绿色计算专项基金”发布](https://mp.weixin.qq.com/s/OMLg0bGJGOqmtYEFZKgAmQ)
 
 ## Blogs
 
