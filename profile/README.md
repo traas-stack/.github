@@ -43,6 +43,7 @@ TRAaaS is an immune system that combines the entire distributed architecture and
 * KDD 2022 [A Meta Reinforcement Learning Approach for Predictive Autoscaling in the Cloud](https://arxiv.org/abs/2205.15795)
 * IJCAI 2022 Memory Augmented State Space Model for Time Series Forecasting
 * ACM SoCC 2022《DeepScaling: Microservices AutoScaling for Stable CPU Utilization in Large Scale Cloud Systems》
+* ACM International Conference on Management of Data（SIGMOD）2023 [《BALANCE: Bayesian Linear Attribution for Root Casuse Localization》](https://2023.sigmod.org/)
 
 ## Newsletters
 
