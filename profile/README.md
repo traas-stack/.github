@@ -8,3 +8,5 @@ Our main interests lie in the following areas:
 * Auto-scaling and related facilities, which achieve the optimal balance between stability and resource consumption.
 * AIOps infrastructure and its best practice, which aims to improve the efficiency of SREs.
 * Large-scale chaos engineering and its best practice.
+
+[community]https://github.com/traas-stack/community
