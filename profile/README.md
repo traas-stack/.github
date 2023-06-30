@@ -9,4 +9,4 @@ Our main interests lie in the following areas:
 * AIOps infrastructure and its best practice, which aims to improve the efficiency of SREs.
 * Large-scale chaos engineering and its best practice.
 
-[community]https://github.com/traas-stack/community
+[community](https://github.com/traas-stack/community)
