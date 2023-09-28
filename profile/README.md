@@ -17,7 +17,7 @@ Our Projects
 * [Altershield](https://github.com/traas-stack/altershield) Provide a complete set of change technology standards covering the entire process of planning, perception, analysis, defense, and search for changes. Provide a non-intrusive access solution for Kubernetes cloud-native release scenarios.
 * [CeresDB](https://github.com/CeresDB/ceresdb) CeresDB is a cloud-native time-series database that aims to handle both time-series and analytic workloads efficiently.
 * [HoloInsight](https://github.com/traas-stack/holoinsight) HoloInsight is a cloud-native observability platform with a special focus on real-time log analysis and AI integration.
-* [SmartUnit](https://github.com/traas-stack/auto-unit-test-case-generator)
+* [SmartUnit](https://github.com/traas-stack/auto-unit-test-case-generator) Auto-Unit-Test-Case-Generator automatically generates high-level code-coverage JUnit test suites for Java
 
 Here is our public account and [community](https://github.com/traas-stack/community)  
 ![image](https://github.com/traas-stack/.github/assets/1535119/290a18e1-3040-4cfc-bc2d-233bda9ab703)
