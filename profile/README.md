@@ -10,11 +10,11 @@ Our main interests lie in the following areas:
 * Large-scale chaos engineering and its best practice.
 
 Our Projects
-* [Kapacity](https://github.com/traas-stack/kapacity)
-* [ChaosMeta](https://github.com/traas-stack/chaosmeta)
-* [DB-GPT](https://github.com/eosphoros-ai/DB-GPT)
-* [CodeFuse-AI](https://github.com/codefuse-ai)
-* [Altershield](https://github.com/traas-stack/altershield)
+* [Kapacity](https://github.com/traas-stack/kapacity) An open cloud native capacity solution which helps you achieve ultimate resource utilization in an intelligent and risk-free way.
+* [ChaosMeta](https://github.com/traas-stack/chaosmeta) A chaos engineering platform for supporting the complete fault drill lifecycle.
+* [DB-GPT](https://github.com/eosphoros-ai/DB-GPT) Revolutionizing Database Interactions with Private LLM Technology
+* [CodeFuse-AI](https://github.com/codefuse-ai) develop Code Large Language Models (Code LLMs) specifically designed to support the entire software development lifecycle, covering crucial stages such as design, requirements, coding, testing, deployment, operations, and maintenance
+* [Altershield](https://github.com/traas-stack/altershield) Provide a complete set of change technology standards covering the entire process of planning, perception, analysis, defense, and search for changes. Provide a non-intrusive access solution for Kubernetes cloud-native release scenarios.
 * [CeresDB](https://github.com/CeresDB/ceresdb) CeresDB is a cloud-native time-series database that aims to handle both time-series and analytic workloads efficiently.
 * [HoloInsight](https://github.com/traas-stack/holoinsight) HoloInsight is a cloud-native observability platform with a special focus on real-time log analysis and AI integration.
 * [SmartUnit](https://github.com/traas-stack/auto-unit-test-case-generator)
