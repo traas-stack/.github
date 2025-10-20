@@ -1,3 +1,5 @@
+# Sorry, we are no longer continuing this project. Thank you for your attention.
+
 ## Hi there
 
 TRaaS (Technological Risk-defense as a Service) is a comprehensive solution for modern Site Reliability Engineering, which prevents and solves all kinds of potential faults and stability risks that arise during the whole software lifetime.
